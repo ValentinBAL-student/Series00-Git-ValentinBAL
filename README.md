@@ -15,3 +15,9 @@ I'll try my best to learn and absorb all the knowledges about GitHub and more ge
 I waited 2 years to join the Master STAPS on Montpellier so i'm fully motivated to give my best to learn. 
 I know myself as a resilient sportive guys who like to solve problems and find solution by understanding what i'm doing, so i'm aware that i'll take a lot of time to submit the asked work and make a lot of mistake but that 's the way i learn efficiently.
 My objective is to get my degree to work back at home, in Reunion Island to develop tools to improve sport performance in professionnal structure.
+
+# Add of a local image in the readme file
+
+This is a screenshot of my screens, beacause i'm doing with my desktop computer, (don't worry, i won't bring 2 screens in classes :))
+
+![Local screen shot]("C:\Users\vb974\OneDrive\Documents\GitHub\Series00-Git-ValentinBAL\Series00-Git-ValentinBAL\image\Capture d’écran (1).png")
