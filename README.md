@@ -20,4 +20,4 @@ My objective is to get my degree to work back at home, in Reunion Island to deve
 
 This is a screenshot of my screens, beacause i'm doing with my desktop computer, (don't worry, i won't bring 2 screens in classes :))
 
-![Local](Series00-Git-ValentinBAL\image\Capture d'écran.png)
+![local_image](image/Capture d'écran.png)
