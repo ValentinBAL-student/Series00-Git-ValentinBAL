@@ -8,3 +8,10 @@ I'm excited to use Github to be more and more effective in coding and learning w
 This is the picture to complete my reame file 
 
 ![Mon image](https://www.terres-japonaises.com/uploads/sites/77/2023/09/sakura-japon.jpeg)
+
+# Step 3.6 Personal and original presentation
+
+I'll try my best to learn and absorb all the knowledges about GitHub and more generally everything relative to Python, VS Code.
+I waited 2 years to join the Master STAPS on Montpellier so i'm fully motivated to give my best to learn. 
+I know myself as a resilient sportive guys who like to solve problems and find solution by understanding what i'm doing, so i'm aware that i'll take a lot of time to submit the asked work and make a lot of mistake but that 's the way i learn efficiently.
+My objective is to get my degree to work back at home, in Reunion Island to develop tools to improve sport performance in professionnal structure.
