@@ -20,7 +20,7 @@ My objective is to get my degree to work back at home, in Reunion Island to deve
 
 This is a screenshot of my screens, beacause i'm doing with my desktop computer, (don't worry, i won't bring 2 screens in classes :))
 
-![local_image](image/localimage.png)
+![Image](image/localimage.png)
 
 # Step 3.8
 After many unsucessful submit, i finally understand my mistakes by tring to realise th previous step : 
@@ -30,6 +30,23 @@ After many unsucessful submit, i finally understand my mistakes by tring to real
 
 N.B : The feel when you correct your own mistake and everything work is very satisfying.
 
+GH = github 
+
+
+meaning and rank from the most use to the less of :
+
+1->commit : when you make modification on the local repository, Github desktop detect it and propose to make a commit to confirm and save the change on Github desktop ( before the push on web GH) 
+2->Branch : it's a "marker" to improve readability in a GH repository, it create a save of the main to make modification without breaking a working code. When the tested code is working in a branch then we can merge it to the main branch to finally improve it.
+3->Push : Send your local repository (if there are modifications) to Github online to show,share or simply save online the repository.
+4->diff : SHow the modification on a part or the whole code.
+5-> clone : Use to clone a repository from online to local, to work on al already existing repository.
+
+On this series, i learn the use of github which become more and more fluent and automatic, even if for now i have to check twice before pushing or confirming commits.
+I learn so markdown command and some manip to visualise image in the code directly. "CTRL + shift+V"
+
+
 # Conclusion
 
 I hope that my work have been realised like you expect !
+
+[def]: image/localimage.png
