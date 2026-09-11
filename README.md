@@ -45,8 +45,10 @@ On this series, i learn the use of github which become more and more fluent and 
 I learn so markdown command and some manip to visualise image in the code directly. "CTRL + shift+V"
 
 
+
 # Conclusion
 
 I hope that my work have been realised like you expect !
+See you soon ! 
 
 [def]: image/localimage.png
